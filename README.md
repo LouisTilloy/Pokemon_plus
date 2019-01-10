@@ -1,2 +1,2 @@
 # Pokemon_plus
-Pokemon like game in C++
+Pokemon-like game in C++
